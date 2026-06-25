@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: baseon
 title: Esempio
 author: GabrielJones
 date: 11/06/2008
